@@ -14,4 +14,3 @@ int main() {
     print_reverse('a', 9, 'b', 8, 'c', 7);
     std::cout << std::endl;
 }
-
